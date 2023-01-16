@@ -95,7 +95,7 @@ export default {
 					"Led a team of 6 to develop an LMS system that caters to different generations simultaneously, with key features that includes a whiteboard conferencing tool, a calendar scheduler, mobile application, and trivia creator.",
 				preview:
 					"https://github.com/lyrador/educouch",
-				techStack: ["Java", "JavaScript", "Spring", "ReactJS", "React Native", "AWS S3", "Postgres"],
+				techStack: ["Java", "Spring", "ReactJS", "React Native", "AWS S3", "PostgreSQL"],
 			},
 			{
 				projectName: "NUS Society",
