@@ -168,8 +168,9 @@ export default {
 			duration: "May 2022 - Jul 2022",
 			subtitle: "Software Engineer Intern",
 			details: [
-				"Participated in 4-5 sprints in a large-scale Agile project, created and updated documentation (eg. acceptance criteria) in line with project's expectations.",
-				"Utilised Angular to create modularised components for front-end development, set up API and handled complex back-end logic using Spring Boot, and executed SQL queries on Oracle database with 500+ tables.. ",
+				"Created and pushed 10+ huge components for front-end development, set up RESTful APIs, managed JSON data and handled complex back-end logic in a large-scale Agile project of more than 50 developers.",
+				"Executed SQL queries on Oracle database with over 500 tables.",
+				"Created and updated 200+ pages of documentation (e.g. acceptance criteria and user stories) to the project’s expectations.",
 				"Rewrote outdated codes to conform to coding standards and reduced assigned flags in Fortify report by over 60%.",
 				"Carried out unit testing, integration testing and user acceptance testing, recorded results to ensure the quality of the features.",
 			],
@@ -183,7 +184,7 @@ export default {
 			duration: "May 2021 - Aug 2021",
 			subtitle: "Game Developer Intern",
 			details: [
-				"Utilised Lua to create a new EdTech game called Ottoworld: Parkour Rangers, with the Alpha Version released in July 2021, currently at 1 million+ total visits.",
+				"Created and released an EdTech game called Ottoworld: Parkour Rangers, with currently more than 2 million visits, and architected part of the documentation diagrams.",
 				"Collaborated with and co-developed games with international developers and designers.",
 				"Provided suggestions and presented new ideas to the management as well as improved on and debugged games.",
 				"Designed Unified Modelling Language (UML) diagrams to assist in code organisation and structuring.",
