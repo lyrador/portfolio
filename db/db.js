@@ -76,8 +76,27 @@ export default {
 					"ReactJS", "Bootstrap", "JavaScript", "Netlify",
 				],
 			},
+			{
+				projectName: "NUS Climbing Website",
+				image: "images/climbingclub.jpg",
+				summary:
+					"Maintained and updated the school's climbing club website to increase exposure towards new climbers and potential partners and sponsors",
+				preview: "https://www.nusclimb.com/",
+				techStack: [
+					"PHP", "JavaScript",
+				],
+			},
 		],
 		software: [
+			{
+				projectName: "Educouch",
+				image: "images/neweducouchlogo.jpg",
+				summary:
+					"Led a team of 6 to develop an LMS system that caters to different generations simultaneously, with key features that includes a whiteboard conferencing tool, a calendar scheduler, mobile application, and trivia creator.",
+				preview:
+					"https://github.com/lyrador/educouch",
+				techStack: ["Java", "JavaScript", "Spring,", "ReactJS", "React Native", "AWS S3", "PostgreSQL"],
+			},
 			{
 				projectName: "NUS Society",
 				image: "images/nusociety-S.png",
@@ -183,14 +202,15 @@ export default {
 			duration: "Aug 2020 - May 2024",
 			subtitle: "National University of Singapore, Singapore",
 			details: [
-				"Cumulative GPA: 4.37",
+				"Cumulative GPA: 4.42",
 				"Intended Specialisation Track: Financial Technology (FinTech)",
 				"Relevant Coursework:",
-				"IDT*CS2040 Data Structures and Algorithms", 
+				"IDT*CS2040 Data Structures and Algorithms",
 				"IDT*CS2105 Introduction to Computer Networks",
-				"IDT*BT2102 Data Management and Visualisation", 
-				"IDT*IS3106 Enterprise Systems Interface Design and Development", 
-				"IDT*IS4301 Agile IT with DevOps", 
+				"IDT*BT2102 Data Management and Visualisation",
+				"IDT*IS3106 Enterprise Systems Interface Design and Development",
+				"IDT*IS4301 Agile IT with DevOps",
+				"IDT*IS3221 ERP Systems with Analytics Solutions",
 			],
 			tags: [
 				"Data Structures & Algorithms",
