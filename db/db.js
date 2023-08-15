@@ -169,12 +169,12 @@ export default {
 			subtitle: "Mobile & Cloud Full Stack Developer Intern ",
 			details: [
 				"Analyse, debug and fix issues in SAP Mobile Development Kit, resolving 30+ JIRA tickets including several code commits for Web, iOS and Android platforms across different versions.",
-				"Created and updated 200+ pages of documentation (e.g. acceptance criteria and user stories) to the project’s expectations.",
+				"Communicate with stakeholders to deliver updates and develop a custom toolbar feature to improve user experience.",
 			],
 			tags: [
 				"NativeScript", "Swift", "Kotlin", "Java", "JavaScript",
 			],
-			icon: "phone",
+			icon: "mobile",
 		},
 		{
 			title: "National University of Singapore",
@@ -194,10 +194,10 @@ export default {
 			duration: "May 2022 - Jul 2022",
 			subtitle: "Software Engineer Intern",
 			details: [
-				"Created and pushed 10+ huge components for front-end development, set up RESTful APIs, managed JSON data and handled complex back-end logic in a large-scale Agile project of more than 50 developers.",
+				"Created 10+ huge components for front-end development, set up RESTful APIs, managed JSON data and handled complex back-end logic in a large-scale Agile project of more than 50 developers.",
 				"Executed SQL queries on Oracle database with over 500 tables.",
 				"Created and updated 200+ pages of documentation (e.g. acceptance criteria and user stories) to the project’s expectations.",
-				"Rewrote outdated codes to conform to coding standards and reduced assigned flags in Fortify report by over 60%.",
+				"Refactored outdated code and reduced assigned flags in Fortify report by over 60%.",
 				"Carried out unit testing, integration testing and user acceptance testing, recorded results to ensure the quality of the features.",
 			],
 			tags: [
