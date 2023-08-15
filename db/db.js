@@ -164,7 +164,33 @@ export default {
 	},
 	experience: [
 		{
-			title: "NCS Pte Ltd",
+			title: "SAP",
+			duration: "May 2023 - Present",
+			subtitle: "Mobile & Cloud Full Stack Developer Intern ",
+			details: [
+				"Analyse, debug and fix issues in SAP Mobile Development Kit, resolving 30+ JIRA tickets including several code commits for Web, iOS and Android platforms across different versions.",
+				"Created and updated 200+ pages of documentation (e.g. acceptance criteria and user stories) to the project’s expectations.",
+			],
+			tags: [
+				"NativeScript", "Swift", "Kotlin", "Java", "JavaScript",
+			],
+			icon: "phone",
+		},
+		{
+			title: "National University of Singapore",
+			duration: "Aug 2022 - Dec 2022",
+			subtitle: "CS Teaching Assistant",
+			details: [
+				"Prepared and conducted biweekly tutorials for over 20 students in the course BT2102 Data Management and Visualisation",
+				"Taught technical concepts and gave detailed feedback, obtaining a high feedback rating of 86%",
+			],
+			tags: [
+				"SQL", "Python", "Tableau",
+			],
+			icon: "paperclip",
+		},
+		{
+			title: "NCS",
 			duration: "May 2022 - Jul 2022",
 			subtitle: "Software Engineer Intern",
 			details: [
@@ -204,7 +230,7 @@ export default {
 			subtitle: "National University of Singapore, Singapore",
 			details: [
 				"Cumulative GPA: 4.42",
-				"Intended Specialisation Track: Financial Technology (FinTech)",
+				"Expertise: Distinction in ICT Solutioning with Specialisation in Financial Technology",
 				"Relevant Coursework:",
 				"IDT*CS2040 Data Structures and Algorithms",
 				"IDT*CS2105 Introduction to Computer Networks",
@@ -219,6 +245,7 @@ export default {
 				"Computer Networks",
 				"Enterprise Architecture Design",
 				"Software Development",
+				"Machine Learning",
 			],
 			icon: "graduation-cap",
 		},
