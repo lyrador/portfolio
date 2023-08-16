@@ -3,7 +3,7 @@ export default {
 		about: {
 			text: [
 				"Hey there! &#128075;",
-				"I'm Daryl. I’m currently a Penultimate Year Information Systems Undergraduate at the National University of Singapore.",
+				"I'm Daryl. I’m currently a Final Year Information Systems Undergraduate at the National University of Singapore.",
 				"I'm a developer, passionate in integrating IT solutions into businesses with a strong desire to learn, having a broad scope of interests ranging from game development and music to content creation. Given my technical background, leadership experience and innovative mindset, I believe I would be a great team player and contribute significantly to projects, making me a great asset to any company. .",
 				"I am currently looking for opportunities to further hone my skills and explore the different development roles in the realm of computing.",
 			],
