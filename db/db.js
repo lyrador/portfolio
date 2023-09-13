@@ -168,7 +168,7 @@ export default {
 			duration: "May 2023 - Present",
 			subtitle: "Mobile & Cloud Full Stack Developer Intern ",
 			details: [
-				"Analyse, debug and fix issues in SAP Mobile Development Kit, resolving 30+ JIRA tickets including several code commits for Web, iOS and Android platforms across different versions.",
+				"Analyse, debug and fix issues in SAP Mobile Development Kit, resolving 40+ JIRA tickets and pushing 5000+ lines of Git code commits for Web, iOS and Android platforms across different app versions. ",
 				"Communicate with stakeholders to deliver updates and develop a custom toolbar feature to improve user experience.",
 			],
 			tags: [
@@ -181,8 +181,8 @@ export default {
 			duration: "Aug 2022 - Dec 2022",
 			subtitle: "CS Teaching Assistant",
 			details: [
-				"Prepared and conducted biweekly tutorials for over 20 students in the course BT2102 Data Management and Visualisation",
-				"Taught technical concepts and gave detailed feedback, obtaining a high feedback rating of 86%",
+				"Prepared and conducted biweekly tutorials for over 20 students in the course BT2102 Data Management and Visualisation. ",
+				"Taught technical concepts, gave detailed feedback and received a high rating from my students.",
 			],
 			tags: [
 				"SQL", "Python", "Tableau",
@@ -238,6 +238,7 @@ export default {
 				"IDT*IS3106 Enterprise Systems Interface Design and Development",
 				"IDT*IS4301 Agile IT with DevOps",
 				"IDT*IS3221 ERP Systems with Analytics Solutions",
+				"IDT*IS4228 Information Technologies in Financial Services",
 			],
 			tags: [
 				"Data Structures & Algorithms",
