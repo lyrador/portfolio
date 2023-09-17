@@ -169,7 +169,7 @@ export default {
 			subtitle: "Mobile & Cloud Full Stack Developer Intern ",
 			details: [
 				"Analyse, debug and fix issues in SAP Mobile Development Kit, resolving 40+ JIRA tickets and pushing 5000+ lines of Git code commits for Web, iOS and Android platforms across different app versions. ",
-				"Communicate with stakeholders to deliver updates and develop a custom toolbar feature to improve user experience.",
+				"Communicate with stakeholders to deliver quick updates and develop toolbar and calendar features that expand app capabilities.",
 			],
 			tags: [
 				"NativeScript", "Swift", "Kotlin", "Java", "JavaScript",
